@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\aplikasi konten\\warung_contoh\\warung_contoh.vbproj": {}
+  },
+  "projects": {
+    "D:\\aplikasi konten\\warung_contoh\\warung_contoh.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\aplikasi konten\\warung_contoh\\warung_contoh.vbproj",
+        "projectName": "warung_contoh",
+        "projectPath": "D:\\aplikasi konten\\warung_contoh\\warung_contoh.vbproj",
+        "packagesPath": "C:\\Users\\SER5 MAX\\.nuget\\packages\\",
+        "outputPath": "D:\\aplikasi konten\\warung_contoh\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\SER5 MAX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.CodeDom.Providers.DotNetCompilerPlatform": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1652.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
